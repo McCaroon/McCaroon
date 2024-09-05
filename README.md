@@ -2,11 +2,11 @@
 
 #### Driven Electrical Hardware Designer and Firmware Developer from Montréal!
 
-- 🔭 Leading **Capra at ÉTS**, an innovative robotics group.
+- 🔭 ex member at **Capra at ÉTS**, an innovative robotics group.
 - 🥇 Secured first place with my team in the search and rescue category at EnRicH.
-- 🦾 Currently spearheading the development of our latest prototype, Rove.
+- 🦾 Currently in the development a small robotic prototype for research purposes.
 - 🎓 Studying **Electrical Engineering at École de technologie supérieure (ÉTS)**.
-- 🌱 Deeply committed to **electrical hardware design, firmware development, and robotics**. Actively seeking an internship.
+- 🌱 Deeply committed to **electrical hardware design, firmware development, and robotics**.
 - ☕ You'll often find me where the coffee is brewing!
 
 
